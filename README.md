@@ -24,7 +24,7 @@ options:
 #### Licence
 
 Copyright 2022-2077 Michael John  
-Copyright 2201-2203 RobCo Industries
+Copyright 2201-2203 RobCo Industries  
 *vdsg* is licensed under the [GPLv2](LICENSE) license.
 
 Original content used from https://vdsgcatalogue.wixsite.com/database
