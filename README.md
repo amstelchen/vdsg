@@ -21,7 +21,7 @@ options:
   -v, --version  show program's version number and exit
   ```
 
-#### Licence
+#### License
 
 Copyright 2022-2077 Michael John  
 Copyright 2201-2203 RobCo Industries  
