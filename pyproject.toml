@@ -1,0 +1,31 @@
+[tool.poetry]
+name = "vdsg"
+version = "0.1.0"
+description = "Search the VDSG catalogue"
+authors = ["Michael John <michael.john@gmx.at>"]
+license = "GPL"
+
+[tool.poetry.scripts]
+vdsg = 'vdsg.__main__:main'
+
+[tool.poetry.dependencies]
+python = "^3.7"
+#beautifulsoup4 = "^4.11.1"
+#requests = "^2.27.1"
+#tabulate = "^0.8.9"
+#prettytable = "^3.3.0"
+
+[tool.poetry.dev-dependencies]
+#pytest = "^5.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0", "poetry-dynamic-versioning"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry-dynamic-versioning]
+enable = false
+
+[tool.poetry.urls]
+homepage = "https://github.com/amstelchen/vdsg"
+repository = "https://github.com/amstelchen/vdsg"
+documentation = "https://github.com/amstelchen/vdsg"
